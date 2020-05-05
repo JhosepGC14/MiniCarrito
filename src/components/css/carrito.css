@@ -1,0 +1,14 @@
+.carrito {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: royalblue;
+  width: 400px;
+}
+
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
