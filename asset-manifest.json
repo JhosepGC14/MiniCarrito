@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MiniCarrito/static/css/main.3ec86de3.chunk.css",
-    "main.js": "/MiniCarrito/static/js/main.1702e24e.chunk.js",
-    "main.js.map": "/MiniCarrito/static/js/main.1702e24e.chunk.js.map",
+    "main.js": "/MiniCarrito/static/js/main.76723f32.chunk.js",
+    "main.js.map": "/MiniCarrito/static/js/main.76723f32.chunk.js.map",
     "runtime-main.js": "/MiniCarrito/static/js/runtime-main.f036a35d.js",
     "runtime-main.js.map": "/MiniCarrito/static/js/runtime-main.f036a35d.js.map",
     "static/js/2.e0307ab2.chunk.js": "/MiniCarrito/static/js/2.e0307ab2.chunk.js",
     "static/js/2.e0307ab2.chunk.js.map": "/MiniCarrito/static/js/2.e0307ab2.chunk.js.map",
     "index.html": "/MiniCarrito/index.html",
-    "precache-manifest.0f98ccf361fe51c12f20f4de5f37ca05.js": "/MiniCarrito/precache-manifest.0f98ccf361fe51c12f20f4de5f37ca05.js",
+    "precache-manifest.4c1ddf3b6c4e518a3109cdc72845ff21.js": "/MiniCarrito/precache-manifest.4c1ddf3b6c4e518a3109cdc72845ff21.js",
     "service-worker.js": "/MiniCarrito/service-worker.js",
     "static/css/main.3ec86de3.chunk.css.map": "/MiniCarrito/static/css/main.3ec86de3.chunk.css.map",
     "static/js/2.e0307ab2.chunk.js.LICENSE.txt": "/MiniCarrito/static/js/2.e0307ab2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f036a35d.js",
     "static/js/2.e0307ab2.chunk.js",
     "static/css/main.3ec86de3.chunk.css",
-    "static/js/main.1702e24e.chunk.js"
+    "static/js/main.76723f32.chunk.js"
   ]
 }
