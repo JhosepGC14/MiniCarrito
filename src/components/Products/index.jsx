@@ -1,7 +1,7 @@
 import React from "react";
 
 const Products = ({ producto, carrito, agregarProducto, productos }) => {
-  const { nombre, precio, id } = producto;
+  const { nombre, img, precio, id } = producto;
 
   //Agregar producto al carrito
   const selectProduct = (id) => {
@@ -19,6 +19,7 @@ const Products = ({ producto, carrito, agregarProducto, productos }) => {
   return (
     <ul>
       <li>{nombre}</li>
+      <img src={img} />
       <span>Precio: ${precio}</span>
 
       {productos ? (
